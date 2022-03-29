@@ -28,11 +28,11 @@ do {
 }
 while (k < 5);
  // Invocar varias veces el método creado al inicio
- miMetodo("Luís", 4);
- miMetodo("Martina", 6);
- miMetodo("Ángel", 25);
- miMetodo("Jenny", 15);
- miMetodo("José Antonio", 31);
+ miMetodo("Luís", 14);
+ miMetodo("Martina", 16);
+ miMetodo("Ángel", 35);
+ miMetodo("Jenny", 25);
+ miMetodo("José Antonio", 41);
 }
     
 }
